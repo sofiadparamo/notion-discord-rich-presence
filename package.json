@@ -1,0 +1,26 @@
+{
+  "name": "notion-discord-rich-presence",
+  "version": "1.0.0",
+  "description": "Script that creates a Notion Rich Presence for Discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SweetSofiMC/notion-discord-rich-presence.git"
+  },
+  "keywords": [
+    "Notion",
+    "Discord",
+    "Rich",
+    "Presence",
+    "RCP"
+  ],
+  "author": "SweetSofiMC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SweetSofiMC/notion-discord-rich-presence/issues"
+  },
+  "homepage": "https://github.com/SweetSofiMC/notion-discord-rich-presence#readme"
+}
