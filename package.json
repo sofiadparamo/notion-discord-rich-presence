@@ -4,6 +4,7 @@
   "description": "Script that creates a Notion Rich Presence for Discord",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -22,5 +23,9 @@
   "bugs": {
     "url": "https://github.com/SweetSofiMC/notion-discord-rich-presence/issues"
   },
-  "homepage": "https://github.com/SweetSofiMC/notion-discord-rich-presence#readme"
+  "homepage": "https://github.com/SweetSofiMC/notion-discord-rich-presence#readme",
+  "dependencies": {
+    "discord-rpc": "^4.0.1",
+    "node-process-windows": "^0.0.2"
+  }
 }
