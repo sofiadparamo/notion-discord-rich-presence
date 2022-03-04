@@ -7,6 +7,10 @@ Script that creates a Notion Rich Presence for Discord
 - You should run this script everytime Notion starts.
 - This script is only compatible with Windows.
 
+## Running the script
+- Download and unzip the code.
+- Double click the `run.bat` file.
+
 ## Running manually
 - Clone this repository.
 - Run `npm install` to install all the dependencies.
